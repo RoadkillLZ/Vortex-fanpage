@@ -1,0 +1,196 @@
+/* MAIN PAGE */
+
+body{
+  background-color: white;
+}  
+  #welcome {
+  border: 10px gray solid;
+  width: 1610px;
+  height: 3020px;
+}
+
+#main {
+  font-size: 105px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#credits {
+  font-size: 77px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#exp {
+  font-size: 99px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#updBtn {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 20px;
+}
+
+#updBtn {
+  font-size: 100px;
+  border-radius: 20px;
+  border: 10px black solid;
+  background-color: purple;
+  color: black;
+}
+
+#updBtn:hover {
+  background-color: magenta;
+}
+
+#cataBtn {
+  font-size: 100px;
+  border-radius: 20px;
+  border: 10px black solid;
+  background-color: purple;
+  color: black;
+  position: absolute;
+  left: 480px;
+  top: 1600px;
+}
+
+#vortexCom {
+  font-size: 100px;
+  border-radius: 20px;
+  border: 10px black solid;
+  background-color: purple;
+  position: absolute;
+  top: 1800px;
+  left: 350px;
+}
+
+#cataBtn:hover {
+  background-color: magenta;
+}
+
+#vortexCom:hover {
+  background-color: magenta;
+}
+
+#vortexsite {
+  font-size: 67px;
+  font-family: sans-serif;
+}
+
+#vortexdiscord {
+  font-size: 67px;
+  font-family: sans-serif;
+}
+
+/* UPDATE PAGE */
+
+#main2 {
+  font-size: 105px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#updWel {
+  border: 10px gray solid;
+  width: 1610px;
+  height: 9000px;
+}
+
+#latestUpd {
+  font-size: 99px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#studioUpd {
+  font-size: 99px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#studUpd {
+  font-size: 99px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#backBtn {
+  font-size: 100px;
+  border-radius: 20px;
+  border: 10px black solid;
+  background-color: lightgreen;
+}
+
+#backBtn:hover {
+  background-color: green;
+}
+
+/* CATALOG PAGE */
+
+#catalog {
+  border: 10px gray solid;
+  width: 1610px;
+  height: 3020px;
+}
+
+#cataWel {
+  font-size: 99px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#cataExp {
+  font-size: 99px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#cataBackBtn {
+  font-size: 100px;
+  border-radius: 20px;
+  border: 10px black solid;
+  background-color: lightgreen;
+}
+
+#cataBackBtn:hover {
+  background-color: green;
+}
+
+/* Vortex Community Page */
+
+#vorCom {
+  border: 10px gray solid;
+  width: 1610px;
+  height: 3020px;
+}
+
+#vorWel {
+  font-size: 99px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#vorArt {
+  font-size: 99px;
+  font-family: sans-serif;
+}
+
+#john {
+  width: 800px;
+  height: 800px;
+}
+
+#vorComBackBtn {
+  font-size: 100px;
+  font-family: sans-serif;
+  background-color: lightgreen;
+  border-radius: 20px;
+  border: 10px black solid;
+}
+
+#vorComBackBtn:hover {
+  background-color: green;
+}
